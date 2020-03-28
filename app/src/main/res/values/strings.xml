@@ -6,4 +6,6 @@
     <string name="lahir">Tempat Lahir</string>
     <string name="almt">Alamat</string>
     <string name="jnsklmn">Jenis Kelamin</string>
+    <string name="lk">Laki Laki</string>
+    <string name="pr">Perempuan</string>
 </resources>

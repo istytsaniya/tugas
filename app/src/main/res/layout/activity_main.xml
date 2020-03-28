@@ -71,6 +71,22 @@
                         android:layout_marginTop="10dp"
                         android:text="@string/jnsklmn"
                         android:textSize="17sp"></TextView>
+                    <TableRow
+
+                        android:layout_marginTop="15dp">
+
+                        <RadioButton
+                            android:layout_marginHorizontal="15dp"
+                            android:text="@string/lk">
+
+                        </RadioButton>
+
+                        <RadioButton
+                            android:layout_marginHorizontal="15dp"
+                            android:text="@string/pr">
+
+                        </RadioButton>
+                    </TableRow>
                 </RadioGroup>
 
             </TableLayout>
