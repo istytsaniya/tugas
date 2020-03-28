@@ -8,4 +8,5 @@
     <string name="jnsklmn">Jenis Kelamin</string>
     <string name="lk">Laki Laki</string>
     <string name="pr">Perempuan</string>
+    <string name="agm">Agama</string>
 </resources>
