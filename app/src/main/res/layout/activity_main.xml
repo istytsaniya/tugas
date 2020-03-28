@@ -47,7 +47,6 @@
                     android:layout_height="78dp"
                     android:layout_marginTop="10dp">
 
-
                     <EditText
                         android:id="@+id/editText1"
                         android:layout_width="match_parent"
@@ -59,8 +58,13 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:hint="@string/lahir"></EditText>
-
                 </TableRow>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="93dp"
+                    android:hint="@string/almt">
+
+                </EditText>
 
             </TableLayout>
 
