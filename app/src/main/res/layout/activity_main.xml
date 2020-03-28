@@ -62,9 +62,16 @@
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="93dp"
-                    android:hint="@string/almt">
+                    android:hint="@string/almt"></EditText>
 
-                </EditText>
+                <RadioGroup>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/jnsklmn"
+                        android:textSize="17sp"></TextView>
+                </RadioGroup>
 
             </TableLayout>
 
