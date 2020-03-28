@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">tugas</string>
     <string name="jdl">Pendaftaran</string>
+    <string name="namadpn">Nama Depan</string>
+    <string name="namablkng">Nama Belakang</string>
 </resources>
